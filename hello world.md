@@ -2,6 +2,8 @@
 
 
 Тефтелька замечательный котик
+Совершенно с этим согласен
+
 
 >git remote add origin https://github.com/kdulep/Test.git
 
